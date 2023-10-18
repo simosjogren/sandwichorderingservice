@@ -1,9 +1,11 @@
 # Group school-project for sandwichordering demo
+
 # Main frontend view:
-![sandwichwindow](https://github.com/simosjogren/sandwichorderingservice/assets/50803295/f8635d55-1119-4433-819e-accd21b8bc93)
+![sandwichwindow](https://github.com/simosjogren/sandwichorderingservice/assets/50803295/59fcdee9-9a52-48d3-998f-079abe1fec71)
 
 # Overall system architecture:
-![PIC1](https://github.com/simosjogren/sandwichorderingservice/assets/50803295/03bcaca2-f731-45c6-be86-1a747890b841)
+![PIC1](https://github.com/simosjogren/sandwichorderingservice/assets/50803295/4171475e-5c49-4073-858e-4c7d59d40585)
+
 
 # Backend order sequence diagram:
 ![PIC2](https://github.com/simosjogren/sandwichorderingservice/assets/50803295/f198b24c-5503-402b-ac64-697040e5dee1)
