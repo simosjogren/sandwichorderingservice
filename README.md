@@ -1,3 +1,13 @@
+# Group school-project for sandwichordering demo
+# Main frontend view:
+![sandwichwindow](https://github.com/simosjogren/sandwichorderingservice/assets/50803295/f8635d55-1119-4433-819e-accd21b8bc93)
+
+# Overall system architecture:
+![PIC1](https://github.com/simosjogren/sandwichorderingservice/assets/50803295/03bcaca2-f731-45c6-be86-1a747890b841)
+
+# Backend order sequence diagram:
+![PIC2](https://github.com/simosjogren/sandwichorderingservice/assets/50803295/f198b24c-5503-402b-ac64-697040e5dee1)
+
 # Creating the database for the first time
 When in docker-compose, you can try to make own commands into a database by typing:
 
