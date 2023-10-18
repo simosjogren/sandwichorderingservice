@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="100px"
+   height="100px"
+   viewBox="0 0 100 100"
+   enable-background="new 0 0 100 100"
+   xml:space="preserve"
+   sodipodi:docname="sandwich-ham-cheese.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><defs
+   id="defs9" /><sodipodi:namedview
+   id="namedview7"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="8.62"
+   inkscape:cx="50"
+   inkscape:cy="50"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   inkscape:window-x="1072"
+   inkscape:window-y="425"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+   <metadata
+   id="metadata2">
+      <rdf:RDF>
+         <rdf:Description
+   rdf:about="">
+            <dc:title>
+               <rdf:Alt>
+                  <rdf:li
+   xml:lang="x-default">Burger</rdf:li>
+               </rdf:Alt>
+            </dc:title>
+            <dc:description>
+               <rdf:Alt>
+                  <rdf:li
+   xml:lang="x-default" />
+               </rdf:Alt>
+            </dc:description>
+            <dc:subject>
+               <rdf:Bag>
+                  <rdf:li>burger</rdf:li>
+                  <rdf:li>food</rdf:li>
+                  <rdf:li>fast</rdf:li>
+                  <rdf:li>hamburger</rdf:li>
+                  <rdf:li>meat</rdf:li>
+                  <rdf:li>beef</rdf:li>
+                  <rdf:li>cheeseburger</rdf:li>
+                  <rdf:li>restaurant</rdf:li>
+                  <rdf:li>cafe</rdf:li>
+               </rdf:Bag>
+            </dc:subject>
+         </rdf:Description>
+      </rdf:RDF>
+   </metadata>
+<path
+   d="M90,46.666v-6.667c0-11.045-8.955-20-20-20H30c-11.045,0-20,8.955-20,20v6.667h6.667v6.667H10v6.667  c0,11.045,8.955,20,20,20h40c11.045,0,20-8.955,20-20v-6.667h-6.667v-6.667H90z M26.667,27.139v6.193h6.667v-6.667H40v6.667h6.667  v-6.667h6.667v6.667H60v-6.667h6.667v6.667h6.666v-6.193c5.732,1.491,10,6.665,10,12.86H16.667  C16.667,33.803,20.931,28.628,26.667,27.139z M50,58.505L39.072,46.666h21.855L50,58.505z M23.333,46.666H30l6.154,6.667h-12.82  V46.666z M70,73.332H30c-7.352,0-13.333-5.979-13.333-13.333h25.642L50,68.332l7.692-8.333h25.641  C83.333,67.353,77.354,73.332,70,73.332z M76.667,53.332H63.848L70,46.666h6.667V53.332z"
+   id="path4"
+   style="fill:#ffffff" />
+</svg>
